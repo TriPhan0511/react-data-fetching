@@ -1,9 +1,8 @@
-import FormikAndYup from './samples/formik-yup-samples/FormikAndYup'
-import FormikAndYupReducingBoilerPlate from './samples/formik-yup-samples/FormikAndYupReducingBoilerPlate'
-import SignupForm from './samples/formik-yup-samples/SignupForm'
+import SignupFormSecond from './samples/formik-yup-samples/SignupFormSecond'
 
 function App() {
-  return <FormikAndYupReducingBoilerPlate />
+  return <SignupFormSecond />
+  // return <FormikAndYupReducingBoilerPlate />
 }
 
 export default App
