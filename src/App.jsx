@@ -1,11 +1,7 @@
-import SignupFormFourth from './samples/formik-yup-samples/SignupFormFourth'
-import SignupFormThird from './samples/formik-yup-samples/SignupFormThird'
+import SignupFormFifth from './samples/formik-yup-samples/SignupFormFifth'
 
 function App() {
-  // return <SignupFormFourth />
-  return <SignupFormThird />
-  // return <SignupFormSecond />
-  // return <FormikAndYupReducingBoilerPlate />
+	return <SignupFormFifth />
 }
 
 export default App
